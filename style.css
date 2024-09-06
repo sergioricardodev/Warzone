@@ -4,5 +4,18 @@
 }
 
 body{
-    background-image: url();
+    background-image: url(wz-pacific-announcement-001.jpg);
+    background-size: cover;
+    position: relative;
+    height: 96vh;
+}
+
+#imagem{
+    background-image: url(helic2.png);
+    position: absolute;
+    width: 536px;
+    height: 499px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
